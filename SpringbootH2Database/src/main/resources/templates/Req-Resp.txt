@@ -1,0 +1,22 @@
+API:
+Admin Controller
+1 TEST : GET  :	/    REQ: NA ,   RESPO: login
+2 createUser POST : /user/create   
+			Req:
+			   
+			Resp:  
+3 getUser  GET : /user/{userId}    
+			Req  :
+			Resp :
+			
+4 get    get :  /user/all
+			Req
+			Respo:
+			
+5 update   	/user/update
+		patch / put /		
+
+Product Controller
+
+
+
